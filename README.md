@@ -31,11 +31,10 @@ terraform apply
 ## 📸 Output / Screenshots
 
 ### EC2 Instance Running
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f2c2732-306b-4216-a9e4-5670a0937cfd" />
-### S3 Bucket 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f119d2f-6709-4aef-b084-573f2db25760" />
+![EC2](images/ec2.png)
+
+### S3 Bucket
+![S3](images/s3.png)
+
 ### VPC
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4b5f71b-669a-4b60-8b27-62984ebedefb" />
-
-
-
+![VPC](images/vpc.png)
