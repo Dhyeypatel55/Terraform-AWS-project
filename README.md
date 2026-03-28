@@ -21,13 +21,6 @@ This project demonstrates the deployment of a scalable 3-tier architecture on AW
 - Scalable and secure architecture
 - High availability using Load Balancer
 
-## 🚀 How to Run
-
-```bash
-terraform init
-terraform plan
-terraform apply
-
 ## 📸 Output / Screenshots
 
 ### 💻 EC2 Instance Running
@@ -38,3 +31,11 @@ terraform apply
 
 ### 🌐 VPC Configuration
 ![VPC](VPC.png)
+
+## 🚀 How to Run
+
+```bash
+terraform init
+terraform plan
+terraform apply
+
