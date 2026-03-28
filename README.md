@@ -36,6 +36,12 @@ This project demonstrates the deployment of a scalable 3-tier architecture on AW
 
 ```bash
 terraform init
+terraform validate
 terraform plan
 terraform apply
+
+
+
+
+
 
