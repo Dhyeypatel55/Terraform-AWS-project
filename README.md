@@ -31,8 +31,7 @@ terraform apply
 ## 📸 Output / Screenshots
 
 ### EC2 Instance Running
-![EC2](screenshots/ec2.png)
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/57782f0f-1231-4d41-8ef0-756ec33e1f40" />
+![EC2](screenshots/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d40b78b6-7c3e-4e13-8bbe-003e645e41f6" />)
 
 
 
