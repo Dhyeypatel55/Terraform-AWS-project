@@ -34,7 +34,7 @@ terraform apply
 ![EC2](image.png)
 
 ## ☁️ S3 Bucket
-![S3](screenshots/s3.png)
+![S3](image.png)
 
 ## 🌐 VPC Configuration
 ![VPC](screenshots/vpc.png)
