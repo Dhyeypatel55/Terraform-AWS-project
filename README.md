@@ -30,12 +30,11 @@ terraform apply
 
 ## 📸 Output / Screenshots
 
-### EC2 Instance Running
-![EC2](image.png)
+### 💻 EC2 Instance Running
+![EC2](EC2.png)
 
-## ☁️ S3 Bucket
-![S3](image.png)
+### ☁️ S3 Bucket
+![S3](S3.png)
 
-## 🌐 VPC Configuration
-![VPC](screenshots/vpc.png)
-
+### 🌐 VPC Configuration
+![VPC](VPC.png)
