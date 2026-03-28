@@ -31,10 +31,14 @@ terraform apply
 ## 📸 Output / Screenshots
 
 ### EC2 Instance Running
-![EC2](images/ec2.png)
+![EC2](screenshots/ec2.png)
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/57782f0f-1231-4d41-8ef0-756ec33e1f40" />
 
-### S3 Bucket
-![S3](images/s3.png)
 
-### VPC
-![VPC](images/vpc.png)
+
+## ☁️ S3 Bucket
+![S3](screenshots/s3.png)
+
+## 🌐 VPC Configuration
+![VPC](screenshots/vpc.png)
+
