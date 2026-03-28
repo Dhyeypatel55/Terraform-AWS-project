@@ -31,9 +31,7 @@ terraform apply
 ## 📸 Output / Screenshots
 
 ### EC2 Instance Running
-![EC2](screenshots/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d40b78b6-7c3e-4e13-8bbe-003e645e41f6" />)
-
-
+![EC2](image.png)
 
 ## ☁️ S3 Bucket
 ![S3](screenshots/s3.png)
